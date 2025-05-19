@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "8c79cd1f-f6bd-4930-b62c-b2970c412735",
   "depends_on": ["terminal", "shell", "adduser"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-21",
