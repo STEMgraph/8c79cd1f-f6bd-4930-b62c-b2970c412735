@@ -2,7 +2,7 @@
 {
   "id": "8c79cd1f-f6bd-4930-b62c-b2970c412735",
   "teaches": "Introduction to Secure Shell Protocol",
-  "depends_on": ["terminal", "shell", "adduser"],
+  "depends_on": ["bccc53a1-ca6e-4995-8ce9-10958bf9e1f9", "2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-21",
   "keywords": ["network", "user", "SSH", "administration"]
